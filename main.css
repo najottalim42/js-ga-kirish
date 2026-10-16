@@ -5,3 +5,9 @@ h1{
 p{
     color: brown;
 }
+button{
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+    color: tomato;
+}
