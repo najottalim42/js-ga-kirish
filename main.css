@@ -10,4 +10,5 @@ button{
     height: 30px;
     background-color: blue;
     color: tomato;
+    border: none;
 }
